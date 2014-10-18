@@ -1,0 +1,21 @@
+{
+  "name": "hype-qr",
+  "version": "0.0.0",
+  "description": "QRify cjdns connect strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kpcyrd/hype-qr.git"
+  },
+  "author": "kpcyrd",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/kpcyrd/hype-qr/issues"
+  },
+  "dependencies": {
+    "qrcode": "~0.2.12"
+  }
+}
